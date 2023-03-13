@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a front-end web developer. Proficient in JavaScript, Vuejs, and Sass.
 
 <!--
 **AnneUOa/AnneUOa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,18 +17,27 @@ Here are some ideas to get you started:
 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnneUOa&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- <p align="center"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="./src/images/tech/js.png" alt="javascript" height="40"/> </a>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/html5.png" alt="html5" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/css3.png" alt="css3" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="./src/images/tech/sass.png" alt="sass" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/reactjs.png" alt="react" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./src/images/tech/redux.png" alt="redux" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/vuejs.png" alt="vuejs" height="40"/> </a>
-<a href="https://mui.com" target="_blank" rel="noreferrer">  <img src="./src/images/tech/mui.png" alt="Material UI" height="40" /> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./src/images/tech/nodejs.png" alt="nodejs" height="40"/> </a> 
-<a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/mongodb.png" alt="mongodb" height="40"/> </a> 
-<a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/ts.png" alt="typescript" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./src/images/tech/git.png" alt="git" height="40"/> </a>   
-</p> -->
+ <h2 align="center">Tools & Technologies ⚡</h2>
+ <p align="center">
+  <a href="https://anuphaldar.com">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,vue,nodejs,typescript,git,c,cpp,python,pytorch" />
+  </a>
+</p>
 
+
+
+<h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
+ <p align="center">
+   <a href="https://www.instagram.com/anne._.2477/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://https://www.linkedin.com/in/annetruong2477/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<!-- 
+<h2 align="center">Support 💰</h2>
+<p align="center">
+<a href="https://www.buymeacoffee.com/haldaranup" target="_blank"> <img align="center" src="https://gist.github.com/haldaranup/2f8a08a98e7424d68e7b53d18639ce09/raw/cdab115f48d1bcfcd0b30ab663ee1fe5d7edf110/buymeacoffee.png" width="116" border="0" alt="haldaranup" /></a>
+</p> -->
