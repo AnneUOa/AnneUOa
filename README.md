@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
  <p align="center">
-   <a href="https://www.instagram.com/anne._.2477/">
+   <a href="https://www.instagram.com/antruong_._/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://https://www.linkedin.com/in/annetruong2477/">
