@@ -30,7 +30,7 @@ Here are some ideas to get you started:
    <a href="https://www.instagram.com/antruong_._/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://https://www.linkedin.com/in/annetruong2477/">
+  <a href="https://www.linkedin.com/in/annetruong2477/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
