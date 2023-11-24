@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,vue,nodejs,typescript,git,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,vue,nodejs,typescript,git,c,cpp,py" />
   </a>
 </p>
 
